@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523351062 source:d:\informatika\semester 2\struktur data\latihan\kodinganai2\var.cpp
+	"var.h"
+
+1523352956 d:\informatika\semester 2\struktur data\latihan\kodinganai2\var.h
+	<cmath>
+	<stdlib.h>
+	"time.h"
+
+1523353132 source:d:\informatika\semester 2\struktur data\latihan\kodinganai2\main.cpp
+	<iostream>
+	"var.h"
+
